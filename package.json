@@ -1,0 +1,31 @@
+{
+  "name": "construct-compose",
+  "version": "0.0.2",
+  "description": "Compiles scripts to Construct 2 XML files",
+  "main": "cute-files.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/armed10/Compose"
+  },
+  "keywords": [
+    "Construct2",
+    "Construct",
+    "XML",
+    "Compose",
+    "Scirra"
+  ],
+  "author": "Ivan Horn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/armed10/Compose/issues"
+  },
+  "homepage": "https://github.com/armed10/Compose",
+  "dependencies": {
+    "commander": "^2.5.1",
+    "content-disposition": "^0.5.0",
+    "express": "^4.10.6"
+  }
+}
